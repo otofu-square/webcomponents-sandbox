@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "codesandbox": "2.1.5",
     "serve": "11.0.0"
   }
 }

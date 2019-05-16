@@ -1,0 +1,9 @@
+{
+  "name": "webcomponents-sandbox",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.0.0"
+  }
+}
